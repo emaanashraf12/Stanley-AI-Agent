@@ -1,0 +1,9 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+ngrok.exe
+.git/
+.vscode/
+stanley_ai.db
+vector_db/
